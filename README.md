@@ -1,26 +1,17 @@
-# je = json editor
+# j2csv = json to csv converter
 
-json editor port to npm
+json to csv converter port to npm
 
-[![npm version](https://badge.fury.io/js/je.svg)](http://badge.fury.io/js/je)
+[![npm version](https://badge.fury.io/js/j2csv.svg)](http://badge.fury.io/js/j2csv)
 
 ## Install 
 
-  [sudo] npm install -g je
+  [sudo] npm install -g j2csv
   
 ## Usage
 
 in terminal 
 
 ```
-  je
+  j2csv
 ```
-  
-or
- 
-```
-  je -f xxx.json
-  je --url http://xxxx
-```
-
-![](ScreenShot.png)

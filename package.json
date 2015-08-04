@@ -1,7 +1,7 @@
 {
   "name": "j2csv",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "json to csv",
   "main": "index.js",
   "scripts": {
     "start":"npm publish .",

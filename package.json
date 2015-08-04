@@ -1,6 +1,6 @@
 {
-  "name": "je",
-  "version": "1.0.2",
+  "name": "json2csv",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

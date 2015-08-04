@@ -15,3 +15,11 @@ in terminal
 ```
   j2csv
 ```
+  
+or
+ 
+```
+  json2csv
+```
+
+![](ScreenShot.png)

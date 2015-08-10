@@ -6,7 +6,7 @@ json to csv converter port to npm
 
 ## Install 
 
-  [sudo] npm install -g j2csv
+    [sudo] npm install -g j2csv
   
 ## Usage
 
